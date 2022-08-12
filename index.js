@@ -5,7 +5,7 @@ const on = () => {
 };
 
 const off = () => {
-  document.getElementById("onImage").style.color = "black";
+  document.getElementById("onImage").style.color = "gray    ";
   document.getElementById("text").style.color = "gray";
   document.getElementById("text").innerHTML= "Switch The Light On";
 };
